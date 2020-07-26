@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <title>My HTML</title>
+
+  </head> 
+<BODY style="background-color:orange;">
+<a href="https://www.google.com/"><img src=google.png alt="MYPIC" width="104" height="142"> </a>
+
+  <h1>way to google</h1>
+
+
+  </body>
+  </html>
